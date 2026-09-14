@@ -74,35 +74,51 @@ Choose R1 = 1kΩ, Rf=10kΩ
  
 **PIN DIAGRAM:**
 
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/eefb2b93-d309-4fd4-973d-54094438e85a" />
+
 **INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c75f153-d8c8-4f73-bffd-20a932774994" />
 
 
   **MODEL GRAPH:**
+<img width="882" height="1601" alt="image" src="https://github.com/user-attachments/assets/384fa721-2f2c-4b2e-9fa9-f1c6b29811d0" />
 
 
   **TABULATION:**
- 
+ <img width="914" height="1598" alt="image" src="https://github.com/user-attachments/assets/d0fb99f0-e2cb-4795-b05c-8f3187163a97" />
 
-**MODEL CALCULATION:**
 
 **NON INVERTING AMPLIFIER:**
   **CIRCUIT DIAGRAM**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c8171355-34c4-408f-8c61-b2ddb2707d96" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="986" alt="image" src="https://github.com/user-attachments/assets/f8c9ee96-d0af-48a8-b0ce-09fe84fdc351" />
 
 
   **TABULATION:**
+<img width="1092" height="1599" alt="image" src="https://github.com/user-attachments/assets/d4efc893-ea12-485a-856e-1aec32ad4796" />
 
   **DIFFERENTIAL AMPLIFIER:**
   **CIRCUIT DIAGRAM**
-
+<img width="1378" height="1600" alt="image" src="https://github.com/user-attachments/assets/db70eb86-2b4e-46da-a7de-38b40ee1bf0a" />
 
   **MODEL GRAPH:**
+<img width="1120" height="1600" alt="image" src="https://github.com/user-attachments/assets/ccd4174f-080b-4caa-b59c-0cd5066ae3d6" />
 
 
   **TABULATION:**
+<img width="1088" height="1600" alt="image" src="https://github.com/user-attachments/assets/a46b835d-214e-42dd-af70-d4327d88b27f" />
+
+  **CALCULATION:**
+  <img width="958" height="1600" alt="image" src="https://github.com/user-attachments/assets/27ef1364-1962-4c80-9cf7-0ea2351ad8de" />
+
+**GRAPH:**
+<img width="1122" height="1599" alt="image" src="https://github.com/user-attachments/assets/08deedbd-3409-453a-9f76-356cf3c64815" />
+<img width="1126" height="1598" alt="image" src="https://github.com/user-attachments/assets/eddc02c9-7537-4b28-97f2-7e7c52cb4a51" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -114,8 +130,10 @@ Choose R1 = 1kΩ, Rf=10kΩ
 •	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
-  **CIRCUIT and Waveform**
   
+  **CIRCUIT and Waveform**
+  <img width="1002" height="1600" alt="image" src="https://github.com/user-attachments/assets/f22dab9a-4ebe-44d3-880d-5a675b13f626" />
+
 
 **RESULT:**
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
